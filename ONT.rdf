@@ -217,6 +217,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Anaplastic_hemangiopericytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">anaplastic hemangiopericytoma</rdfs:label>
     </owl:Class>
     
 
@@ -225,6 +226,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Anaplastic_medulloblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Large_cell_medulloblastoma"/>
+        <rdfs:label xml:lang="en">anaplastic medulloblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -234,6 +236,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Anaplastic_oligoastrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Mixed_glioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">anaplastic oligoastrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -251,6 +254,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Angioblastic_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Hemangioblastic_meningioma"/>
+        <rdfs:label xml:lang="en">angioblastic meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -260,6 +264,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Angiocentric_glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">angiocentric glioma</rdfs:label>
     </owl:Class>
     
 
@@ -268,6 +273,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Angiomatous_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">angiomatous meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -294,6 +300,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytic_glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_NOS"/>
+        <rdfs:label xml:lang="en">astrocytic glioma</rdfs:label>
     </owl:Class>
     
 
@@ -361,6 +368,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_pilocytic">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">astrocytoma pilocytic</rdfs:label>
     </owl:Class>
     
 
@@ -369,6 +377,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_protoplasmic">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma"/>
+        <rdfs:label xml:lang="en">astrocytoma protoplasmic</rdfs:label>
     </owl:Class>
     
 
@@ -377,6 +386,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astroglioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_NOS"/>
+        <rdfs:label xml:lang="en">astroglioma</rdfs:label>
     </owl:Class>
     
 
@@ -387,6 +397,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ventricle,_NOS"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">atypical choroid plexus papilloma</rdfs:label>
     </owl:Class>
     
 
@@ -396,6 +407,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Atypical_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">atypical meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -752,6 +764,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#CPNET">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Primitive_neuroectodermal_tumor,_NOS"/>
+        <rdfs:label xml:lang="en">cpnet</rdfs:label>
     </owl:Class>
     
 
@@ -778,6 +791,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cellular_ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma,_NOS"/>
+        <rdfs:label xml:lang="en">cellular ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -813,6 +827,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellopontine_angle">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellum,_NOS"/>
+        <rdfs:label xml:lang="en">cerebellopontine angle</rdfs:label>
     </owl:Class>
     
 
@@ -893,6 +908,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chondroid_chordoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoma"/>
+        <rdfs:label xml:lang="en">chondroid chordoma</rdfs:label>
     </owl:Class>
     
 
@@ -901,6 +917,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoid_glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
+        <rdfs:label xml:lang="en">chordoid glioma</rdfs:label>
     </owl:Class>
     
 
@@ -909,6 +926,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoid_glioma_of_third_ventricle">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoid_glioma"/>
+        <rdfs:label xml:lang="en">chordoid glioma of third ventricle</rdfs:label>
     </owl:Class>
     
 
@@ -917,6 +935,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoid_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Clear_cell_meningioma"/>
+        <rdfs:label xml:lang="en">chordoid meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -937,6 +956,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ventricle,_NOS"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">choroid plexus carcinoma</rdfs:label>
     </owl:Class>
     
 
@@ -974,6 +994,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ventricle,_NOS"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">choroid plexus papilloma</rdfs:label>
     </owl:Class>
     
 
@@ -982,6 +1003,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Circumscribed_arachnoidal_cerebellar_sarcoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Desmoplastic_nodular_medulloblastoma"/>
+        <rdfs:label xml:lang="en">circumscribed arachnoidal cerebellar sarcoma</rdfs:label>
     </owl:Class>
     
 
@@ -990,6 +1012,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Clear_cell_ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma,_NOS"/>
+        <rdfs:label xml:lang="en">clear cell ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -998,6 +1021,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Clear_cell_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">clear cell meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -1099,6 +1123,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cystic_astrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_NOS"/>
+        <rdfs:label xml:lang="en">cystic astrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -1107,6 +1132,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Dedifferentiated_chordoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoma"/>
+        <rdfs:label xml:lang="en">dedifferentiated chordoma</rdfs:label>
     </owl:Class>
     
 
@@ -1125,6 +1151,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Desmoplastic_nodular_medulloblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Medulloblastoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellum,_NOS"/>
+        <rdfs:label xml:lang="en">desmoplastic nodular medulloblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -1134,6 +1161,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Diffuse_astrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_NOS"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">diffuse astrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -1142,6 +1170,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Diffuse_meningiomatosis">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningiomatosis,_NOS"/>
+        <rdfs:label xml:lang="en">diffuse meningiomatosis</rdfs:label>
     </owl:Class>
     
 
@@ -1150,6 +1179,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Endotheliomatous_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningothelial_meningioma"/>
+        <rdfs:label xml:lang="en">endotheliomatous meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -1167,6 +1197,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma,_anaplastic"/>
+        <rdfs:label xml:lang="en">ependymoblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -1194,6 +1225,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Epithelial_ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma,_NOS"/>
+        <rdfs:label xml:lang="en">epithelial ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -1238,6 +1270,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Fibroblastic_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Fibrous_meningioma"/>
+        <rdfs:label xml:lang="en">fibroblastic meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -1246,6 +1279,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Fibrous_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">fibrous meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -1282,6 +1316,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Gangliocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuroma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">gangliocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -1300,6 +1335,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuroblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuroma"/>
+        <rdfs:label xml:lang="en">ganglioneuroblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -1318,6 +1354,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuromatosis">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuroma"/>
+        <rdfs:label xml:lang="en">ganglioneuromatosis</rdfs:label>
     </owl:Class>
     
 
@@ -1336,8 +1373,8 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000057"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
-        <rdfs:label xml:lang="pt-br">Glioma</rdfs:label>
         <rdfs:label xml:lang="en">glioma</rdfs:label>
+        <rdfs:label xml:lang="pt-br">glioma</rdfs:label>
     </owl:Class>
     
 
@@ -1357,6 +1394,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Gliomatosis_cerebri">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Gliomatosis"/>
+        <rdfs:label xml:lang="en">gliomatosis cerebri</rdfs:label>
     </owl:Class>
     
 
@@ -1392,6 +1430,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Hemangioblastic_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">hemangioblastic meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -1401,6 +1440,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Hemangioblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">hemangioblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -1499,6 +1539,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Juvenile_astrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_pilocytic"/>
+        <rdfs:label xml:lang="en">juvenile astrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -1508,6 +1549,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Large_cell_medulloblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Medulloblastoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellum,_NOS"/>
+        <rdfs:label xml:lang="en">large cell medulloblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -1516,6 +1558,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Leptomeningeal_sarcoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_malignant"/>
+        <rdfs:label xml:lang="en">leptomeningeal sarcoma</rdfs:label>
     </owl:Class>
     
 
@@ -1533,6 +1576,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Lymphoplasmacyte-rich_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_NOS"/>
+        <rdfs:label xml:lang="en">lymphoplasmacyte-rich meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -2190,6 +2234,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Melanotic_medulloblastoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Medulloblastoma,_NOS"/>
+        <rdfs:label xml:lang="en">melanotic medulloblastoma</rdfs:label>
     </owl:Class>
     
 
@@ -2207,6 +2252,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningeal_sarcoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_malignant"/>
+        <rdfs:label xml:lang="en">meningeal sarcoma</rdfs:label>
     </owl:Class>
     
 
@@ -2215,6 +2261,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningeal_sarcomatosis">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">meningeal sarcomatosis</rdfs:label>
     </owl:Class>
     
 
@@ -2233,6 +2280,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningothelial_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">meningothelial meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -2241,6 +2289,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningothelial_sarcoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_malignant"/>
+        <rdfs:label xml:lang="en">meningothelial sarcoma</rdfs:label>
     </owl:Class>
     
 
@@ -2249,6 +2298,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Metaplastic_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_NOS"/>
+        <rdfs:label xml:lang="en">metaplastic meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -2257,6 +2307,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Microcystic_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_NOS"/>
+        <rdfs:label xml:lang="en">microcystic meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -2283,6 +2334,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Mixed_glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
+        <rdfs:label xml:lang="en">mixed glioma</rdfs:label>
     </owl:Class>
     
 
@@ -2300,6 +2352,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Mixed_subependymoma-ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Subependymoma"/>
+        <rdfs:label xml:lang="en">mixed subependymoma-ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -2317,6 +2370,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Multiple_meningiomas">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningiomatosis,_NOS"/>
+        <rdfs:label xml:lang="en">multiple meningiomas</rdfs:label>
     </owl:Class>
     
 
@@ -2327,6 +2381,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Spinal_cord"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">myxopapillary ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -2853,9 +2908,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000060">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000058"/>
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000059"/>
-        <rdfs:label xml:lang="pt-br">Biopsia</rdfs:label>
-        <rdfs:label xml:lang="en">biopsy</rdfs:label>
         <rdfs:label xml:lang="en">grade</rdfs:label>
     </owl:Class>
     
@@ -3060,6 +3112,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Oligoastrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Mixed_glioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">oligoastrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -3180,6 +3233,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Papillary_ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:label xml:lang="en">papillary ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -3207,6 +3261,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Parachordoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoma"/>
+        <rdfs:label xml:lang="en">parachordoma</rdfs:label>
     </owl:Class>
     
 
@@ -3260,6 +3315,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Piloid_astrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_pilocytic"/>
+        <rdfs:label xml:lang="en">piloid astrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -3327,6 +3383,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Pleomorphic_xanthoastrocytoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">pleomorphic xanthoastrocytoma</rdfs:label>
     </owl:Class>
     
 
@@ -3443,6 +3500,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Secretory_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_NOS"/>
+        <rdfs:label xml:lang="en">secretory meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -3514,6 +3572,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Subependymal_glioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Subependymoma"/>
+        <rdfs:label xml:lang="en">subependymal glioma</rdfs:label>
     </owl:Class>
     
 
@@ -3524,6 +3583,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">subependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -3541,6 +3601,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Supratentorial_PNET">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Primitive_neuroectodermal_tumor,_NOS"/>
+        <rdfs:label xml:lang="en">supratentorial PNET</rdfs:label>
     </owl:Class>
     
 
@@ -3549,6 +3610,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Syncytial_meningioma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningothelial_meningioma"/>
+        <rdfs:label xml:lang="en">syncytial meningioma</rdfs:label>
     </owl:Class>
     
 
@@ -3557,6 +3619,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Tanycytic_ependymoma">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma,_NOS"/>
+        <rdfs:label xml:lang="en">tanycytic ependymoma</rdfs:label>
     </owl:Class>
     
 
@@ -3655,6 +3718,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Vermis_of_cerebellum">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellum,_NOS"/>
+        <rdfs:label xml:lang="en">vermis of cerebellum</rdfs:label>
     </owl:Class>
     
 
@@ -3700,6 +3764,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Central_primitive_neuroectodermal_tumor,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Primitive_neuroectodermal_tumor,_NOS"/>
+        <rdfs:label xml:lang="en">central primitive neuroectodermal tumor, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -3717,6 +3782,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Chordoma"/>
+        <rdfs:label xml:lang="en">chordoma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -3752,6 +3818,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Craniopharyngioma,_adamantinomatous">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Craniopharyngioma"/>
+        <rdfs:label xml:lang="en">craniopharyngioma, adamantinomatous</rdfs:label>
     </owl:Class>
     
 
@@ -3760,6 +3827,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Craniopharyngioma,_papillary">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Craniopharyngioma"/>
+        <rdfs:label xml:lang="en">craniopharyngioma, papillary</rdfs:label>
     </owl:Class>
     
 
@@ -3795,6 +3863,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Dysplastic_gangliocytoma_of_cerebellum_(Lhermitte-Duclos)">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioneuroma"/>
+        <rdfs:label xml:lang="en">dysplastic gangliocytoma of cerebellum (Lhermitte-Duclos)</rdfs:label>
     </owl:Class>
     
 
@@ -3814,6 +3883,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">ependymoma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -3824,6 +3894,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ependymoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">ependymoma, anaplastic</rdfs:label>
     </owl:Class>
     
 
@@ -3851,6 +3922,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioglioma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioglioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">ganglioglioma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -3860,6 +3932,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioglioma,_anaplastic">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Ganglioglioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">ganglioglioma, anaplastic</rdfs:label>
     </owl:Class>
     
 
@@ -3868,6 +3941,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma,_malignant">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Glioma"/>
+        <rdfs:label xml:lang="en">glioma, malignant</rdfs:label>
     </owl:Class>
     
 
@@ -3877,6 +3951,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Hemangiopericytoma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
+        <rdfs:label xml:lang="en">hemangiopericytoma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4523,6 +4598,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Medulloblastoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Cerebellum,_NOS"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000067"/>
+        <rdfs:label xml:lang="en">medulloblastoma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4532,6 +4608,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
+        <rdfs:label xml:lang="en">meningioma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4540,6 +4617,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_anaplastic">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_malignant"/>
+        <rdfs:label xml:lang="en">meningioma, anaplastic</rdfs:label>
     </owl:Class>
     
 
@@ -4549,6 +4627,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma,_malignant">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
+        <rdfs:label xml:lang="en">meningioma, malignant</rdfs:label>
     </owl:Class>
     
 
@@ -4557,6 +4636,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningiomatosis,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Meningioma"/>
+        <rdfs:label xml:lang="en">meningiomatosis, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4614,6 +4694,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#PNET,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Primitive_neuroectodermal_tumor,_NOS"/>
+        <rdfs:label xml:lang="en">pnet, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4633,6 +4714,7 @@
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Medulloblastoma"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <untitled-ontology-11:hasOCNSP_0000060Of rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000067"/>
+        <rdfs:label xml:lang="en">primitive neuroectodermal tumor, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4650,8 +4732,8 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Schwannoma_(Neurilemoma)">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000057"/>
-        <rdfs:label xml:lang="en">Schwannoma (Neurilemoma)</rdfs:label>
-        <rdfs:label xml:lang="pt-br">Schwannoma (Neurilemoma)</rdfs:label>
+        <rdfs:label xml:lang="en">schwannoma (Neurilemoma)</rdfs:label>
+        <rdfs:label xml:lang="pt-br">schwannoma (Neurilemoma)</rdfs:label>
     </owl:Class>
     
 
@@ -4660,6 +4742,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Spongioblastoma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Astrocytoma_pilocytic"/>
+        <rdfs:label xml:lang="en">spongioblastoma, NOS</rdfs:label>
     </owl:Class>
     
 
@@ -4668,6 +4751,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Subependymal_astrocytoma,_NOS">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#Subependymoma"/>
+        <rdfs:label xml:lang="en">subependymal astrocytoma, NOS</rdfs:label>
     </owl:Class>
     
 
