@@ -702,7 +702,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000048 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000048">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">brain, NOS</rdfs:label>
     </owl:Class>
     
@@ -720,7 +720,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000050 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000050">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000051"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">meninges, NOS</rdfs:label>
     </owl:Class>
     
@@ -2597,7 +2597,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000251 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000251">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">spinal cord</rdfs:label>
     </owl:Class>
     
@@ -2606,7 +2606,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000252 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000252">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000528"/>
         <rdfs:label xml:lang="en">overlapping lesion of brain and central nervous system</rdfs:label>
     </owl:Class>
     
@@ -2633,7 +2633,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000255 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000255">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">optic nerve</rdfs:label>
     </owl:Class>
     
@@ -2642,7 +2642,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000256 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000256">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">olfactory nerve</rdfs:label>
     </owl:Class>
     
@@ -2687,7 +2687,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000261 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000261">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">nervous system, NOS</rdfs:label>
     </owl:Class>
     
@@ -2786,7 +2786,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000272 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000272">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">cranial nerve, NOS</rdfs:label>
     </owl:Class>
     
@@ -2795,7 +2795,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000273 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000273">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">cauda equina</rdfs:label>
     </owl:Class>
     
@@ -2804,7 +2804,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000274 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000274">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000053"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524"/>
         <rdfs:label xml:lang="en">acoustic nerve</rdfs:label>
     </owl:Class>
     
@@ -2867,7 +2867,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000281 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000281">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000051"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">spinal meninges</rdfs:label>
     </owl:Class>
     
@@ -2958,7 +2958,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000291 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000291">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000051"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">cerebral meninges</rdfs:label>
     </owl:Class>
     
@@ -3012,7 +3012,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000297 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000297">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525"/>
         <rdfs:label xml:lang="en">pituitary gland</rdfs:label>
     </owl:Class>
     
@@ -3021,7 +3021,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525"/>
         <rdfs:label xml:lang="en">pineal gland</rdfs:label>
     </owl:Class>
     
@@ -3030,7 +3030,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000299 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000299">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525"/>
         <rdfs:label xml:lang="en">parathyroid gland</rdfs:label>
     </owl:Class>
     
@@ -3057,7 +3057,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000302 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000302">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000528"/>
         <rdfs:label xml:lang="en">overlapping lesion of endocrine glands and related structures</rdfs:label>
     </owl:Class>
     
@@ -3066,7 +3066,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000303 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000303">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525"/>
         <rdfs:label xml:lang="en">endocrine glads, NOS</rdfs:label>
     </owl:Class>
     
@@ -3075,7 +3075,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000304 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000304">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000527"/>
         <rdfs:label xml:lang="en">craniopharyngeal duct</rdfs:label>
     </owl:Class>
     
@@ -3084,7 +3084,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000305 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000305">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000526"/>
         <rdfs:label xml:lang="en">carotid body</rdfs:label>
     </owl:Class>
     
@@ -3147,7 +3147,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000312 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000312">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000052"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000526"/>
         <rdfs:label xml:lang="en">aortic body and other paraganglia</rdfs:label>
     </owl:Class>
     
@@ -3219,7 +3219,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000320 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000320">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">ventricel, NOS</rdfs:label>
     </owl:Class>
     
@@ -3246,7 +3246,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000323 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000323">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">temporal lobe</rdfs:label>
     </owl:Class>
     
@@ -3273,7 +3273,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000326 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000326">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">parietal lobe</rdfs:label>
     </owl:Class>
     
@@ -3300,7 +3300,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000329 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000329">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000528"/>
         <rdfs:label xml:lang="en">overlapping lesion of brain</rdfs:label>
     </owl:Class>
     
@@ -3381,7 +3381,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000338 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000338">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">occipital lobe</rdfs:label>
     </owl:Class>
     
@@ -3426,7 +3426,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000343 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000343">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">frontal lobe</rdfs:label>
     </owl:Class>
     
@@ -3606,7 +3606,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000363 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000363">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">cerebrum</rdfs:label>
     </owl:Class>
     
@@ -3651,7 +3651,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000368 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000368">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">cerebellum, NOS</rdfs:label>
     </owl:Class>
     
@@ -4973,7 +4973,7 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000518 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000518">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523"/>
         <rdfs:label xml:lang="en">brain stem</rdfs:label>
     </owl:Class>
     
@@ -4994,6 +4994,68 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000521">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000380"/>
         <rdfs:label xml:lang="en">neurinoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522">
+        <rdfs:label xml:lang="en">anatomical structure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000523">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">structures of central nervous system</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000524">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">structures of the peripheral nervous system</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000525">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">endocrine glands</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000526 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000526">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">sensory and regulatory structures</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000527 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000527">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">embryological structures</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000528 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000528">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000522"/>
+        <rdfs:label xml:lang="en">pathological conditions</rdfs:label>
     </owl:Class>
     
 
