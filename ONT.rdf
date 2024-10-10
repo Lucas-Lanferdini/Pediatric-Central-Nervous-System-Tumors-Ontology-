@@ -3820,6 +3820,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000385">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000387"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000068"/>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000145"/>
         <rdfs:label xml:lang="en">pineocytoma</rdfs:label>
@@ -3831,6 +3837,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000386">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000387"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000143"/>
@@ -3843,6 +3855,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000387">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000057"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000143"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000298"/>
         <rdfs:label xml:lang="en">pineoblastoma</rdfs:label>
@@ -3864,6 +3882,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000389">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000391"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000177"/>
         <rdfs:label xml:lang="en">oligodendroglioma, NOS</rdfs:label>
@@ -3875,6 +3899,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000390">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000391"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000175"/>
         <rdfs:label xml:lang="en">oligodendroglioma, anaplastic</rdfs:label>
@@ -3964,6 +3994,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000399">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000425"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000051"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000098"/>
         <rdfs:label xml:lang="en">meningothelial meningioma</rdfs:label>
     </owl:Class>
@@ -3992,6 +4028,12 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000402">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000425"/>
+        <rdfs:subClassOf>
+            <owl:Restriction>
+                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000001"/>
+                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000051"/>
+            </owl:Restriction>
+        </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000101"/>
         <rdfs:label xml:lang="en">meningiomatosis, NOS</rdfs:label>
     </owl:Class>
