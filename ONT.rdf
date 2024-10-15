@@ -5299,6 +5299,93 @@
     
 
 
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000529 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000529">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000062"/>
+        <rdfs:label xml:lang="en">age group</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000530 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000530">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000529"/>
+        <rdfs:label xml:lang="en">adolescent</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000531 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000531">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000529"/>
+        <rdfs:label xml:lang="en">child</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000532 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000532">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="pt-br">não declarado</rdfs:label>
+        <rdfs:label xml:lang="en">undeclared</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000533 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000533">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="pt-br">amarela</rdfs:label>
+        <rdfs:label xml:lang="en">asian</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000534 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000534">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="en">indian</rdfs:label>
+        <rdfs:label xml:lang="pt-br">indígena</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000535 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000535">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="en">?</rdfs:label>
+        <rdfs:label xml:lang="pt-br">parda</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000536 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000536">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="en">black</rdfs:label>
+        <rdfs:label xml:lang="pt-br">preta</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000537 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000537">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
+        <rdfs:label xml:lang="pt-br">branca</rdfs:label>
+        <rdfs:label xml:lang="en">white</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#ONCPS_0000015 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#ONCPS_0000015">
