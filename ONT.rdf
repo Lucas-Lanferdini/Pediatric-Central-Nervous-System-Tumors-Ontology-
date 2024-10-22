@@ -5601,6 +5601,114 @@
     
 
 
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000558 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000558">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000491"/>
+        <rdfs:label xml:lang="en">pilomyxoid astrocytoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000559 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000559">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000491"/>
+        <rdfs:label xml:lang="en">glioblastoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000560 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000560">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000491"/>
+        <rdfs:label xml:lang="en">giant cell glioblastoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000561 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000561">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000491"/>
+        <rdfs:label xml:lang="en">gliosarcoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000057"/>
+        <rdfs:label xml:lang="en">neuronal/glial tumors</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000563 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000563">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">dysembryoplastic neuroepithelial tumor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000564 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000564">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">central neurocytoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000565 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000565">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">extraventricular neurocytoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000566 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000566">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">cerebellar liponeurocytoma</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000567 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000567">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">paraganglioma of spinal cord</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000568 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000568">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">papillary glioneuronal tumor</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000569 -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000569">
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000562"/>
+        <rdfs:label xml:lang="en">rosette-forming glioneuronal tumor of fourth ventricle</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#ONCPS_0000015 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#ONCPS_0000015">
