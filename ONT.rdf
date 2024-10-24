@@ -5974,6 +5974,8 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000598">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000597"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000568"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000569"/>
         <rdfs:label>9509/1</rdfs:label>
     </owl:Class>
     
@@ -5992,6 +5994,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000600">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000599"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000571"/>
         <rdfs:label>9395/3</rdfs:label>
     </owl:Class>
     
@@ -6010,6 +6013,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000602">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000601"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000573"/>
         <rdfs:label>9508/3</rdfs:label>
     </owl:Class>
     
@@ -6028,6 +6032,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000604">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000605"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000576"/>
         <rdfs:label>9540/0</rdfs:label>
     </owl:Class>
     
@@ -6064,6 +6069,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000608">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000607"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000575"/>
         <rdfs:label>9571/0</rdfs:label>
     </owl:Class>
     
@@ -6073,6 +6079,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000609">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000607"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000575"/>
         <rdfs:label>9571/3</rdfs:label>
     </owl:Class>
     
@@ -6082,6 +6089,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000610">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000605"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000577"/>
         <rdfs:label>9540/3</rdfs:label>
     </owl:Class>
     
@@ -6109,6 +6117,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000613">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000612"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000579"/>
         <rdfs:label>9582/0</rdfs:label>
     </owl:Class>
     
@@ -6127,6 +6136,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000615">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000614"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000580"/>
         <rdfs:label>9432/1</rdfs:label>
     </owl:Class>
     
@@ -6163,6 +6173,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000620">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000618"/>
+        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000581"/>
         <rdfs:label>8290/0</rdfs:label>
     </owl:Class>
     
