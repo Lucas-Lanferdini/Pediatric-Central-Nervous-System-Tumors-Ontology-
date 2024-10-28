@@ -213,12 +213,6 @@
         <rdfs:subClassOf>
             <owl:Restriction>
                 <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_00000521"/>
-                <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000007"/>
-            </owl:Restriction>
-        </rdfs:subClassOf>
-        <rdfs:subClassOf>
-            <owl:Restriction>
-                <owl:onProperty rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_00000521"/>
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
             </owl:Restriction>
         </rdfs:subClassOf>
@@ -331,15 +325,6 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000006">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000062"/>
         <rdfs:label xml:lang="en">gender</rdfs:label>
-    </owl:Class>
-    
-
-
-    <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000007 -->
-
-    <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000007">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000062"/>
-        <rdfs:label xml:lang="en">marital status</rdfs:label>
     </owl:Class>
     
 
@@ -5360,7 +5345,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000535">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000008"/>
-        <rdfs:label xml:lang="en">?</rdfs:label>
+        <rdfs:label xml:lang="en">latin american</rdfs:label>
         <rdfs:label xml:lang="pt-br">parda</rdfs:label>
     </owl:Class>
     
@@ -5561,6 +5546,7 @@
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000553">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000538"/>
         <rdfs:label xml:lang="pt-br">sistema de apoio</rdfs:label>
+        <rdfs:label xml:lang="en">support system</rdfs:label>
     </owl:Class>
     
 
@@ -5569,6 +5555,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000554">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000538"/>
+        <rdfs:label xml:lang="en">logistics system</rdfs:label>
         <rdfs:label xml:lang="pt-br">sistema logistico</rdfs:label>
     </owl:Class>
     
@@ -5578,6 +5565,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000555">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000538"/>
+        <rdfs:label xml:lang="en">regulation</rdfs:label>
         <rdfs:label xml:lang="pt-br">regulação</rdfs:label>
     </owl:Class>
     
@@ -5587,6 +5575,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000556">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000538"/>
+        <rdfs:label xml:lang="en">governance</rdfs:label>
         <rdfs:label xml:lang="pt-br">governança</rdfs:label>
     </owl:Class>
     
