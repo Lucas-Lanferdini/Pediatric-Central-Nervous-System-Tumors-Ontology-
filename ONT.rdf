@@ -879,7 +879,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000069">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000071"/>
-        <rdfs:label xml:lang="en">9150/1</rdfs:label>
+        <rdfs:label>8273/3</rdfs:label>
     </owl:Class>
     
 
@@ -887,8 +887,8 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000070 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000070">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000071"/>
-        <rdfs:label xml:lang="en">9150/3</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000595"/>
+        <rdfs:label>8728/3</rdfs:label>
     </owl:Class>
     
 
@@ -896,8 +896,8 @@
     <!-- http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000071 -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000071">
-        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000072"/>
-        <rdfs:label xml:lang="en">9150</rdfs:label>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000617"/>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8273</rdfs:label>
     </owl:Class>
     
 
@@ -1268,7 +1268,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000112">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000113"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000453"/>
         <rdfs:label xml:lang="en">9393/3</rdfs:label>
     </owl:Class>
     
@@ -1445,7 +1444,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000131">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000132"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000433"/>
         <rdfs:label xml:lang="en">9380/3</rdfs:label>
     </owl:Class>
     
@@ -1768,7 +1766,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000166">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000167"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000515"/>
         <rdfs:label xml:lang="en">9474/3</rdfs:label>
     </owl:Class>
     
@@ -1787,7 +1784,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000168">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000169"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000420"/>
         <rdfs:label xml:lang="en">9473/3</rdfs:label>
     </owl:Class>
     
@@ -1806,7 +1802,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000170">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000171"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000426"/>
         <rdfs:label xml:lang="en">9471/3</rdfs:label>
     </owl:Class>
     
@@ -1825,7 +1820,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000172">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000173"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000513"/>
         <rdfs:label xml:lang="en">9470/3</rdfs:label>
     </owl:Class>
     
@@ -3717,7 +3711,6 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000065"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000175"/>
         <rdfs:label xml:lang="en">medulloblastoma, histologically defined</rdfs:label>
     </owl:Class>
     
@@ -3734,7 +3727,6 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000067"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000168"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <rdfs:label xml:lang="en">medulloblastoma, WNT-activated</rdfs:label>
     </owl:Class>
@@ -3800,7 +3792,6 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000131"/>
         <rdfs:label xml:lang="en">polymorphous low-grade neuroepithelial tumor of the young</rdfs:label>
     </owl:Class>
     
@@ -3921,7 +3912,6 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000112"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000049"/>
         <rdfs:label xml:lang="en">spinal ependymoma, MYCN-amplified</rdfs:label>
     </owl:Class>
@@ -4314,7 +4304,6 @@
             </owl:Restriction>
         </rdfs:subClassOf>
         <untitled-ontology-11:OCNSP_0000501 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000067"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000172"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000066"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000368"/>
         <rdfs:label xml:lang="en">medulloblastoma, SHH-activated &amp; TP53-wild-type</rdfs:label>
@@ -4332,7 +4321,6 @@
                 <owl:someValuesFrom rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000368"/>
             </owl:Restriction>
         </rdfs:subClassOf>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000166"/>
         <untitled-ontology-11:happensIn rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000368"/>
         <rdfs:label xml:lang="en">medulloblastoma, SHH-activated &amp; TP53-mutant</rdfs:label>
     </owl:Class>
@@ -4759,7 +4747,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000564">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000466"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000592"/>
         <rdfs:label xml:lang="en">infant-type hemispheric glioma</rdfs:label>
     </owl:Class>
     
@@ -4769,7 +4756,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000566">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000466"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000592"/>
         <rdfs:label xml:lang="en">diffuse pediatric-type high-grade glioma</rdfs:label>
     </owl:Class>
     
@@ -4779,7 +4765,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000567">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000466"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000596"/>
         <rdfs:label xml:lang="en">diffuse hemispheric glioma</rdfs:label>
     </owl:Class>
     
@@ -4799,7 +4784,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000569">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000466"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000598"/>
         <rdfs:label xml:lang="en">diffuse midline glioma, H3 K27-altered</rdfs:label>
     </owl:Class>
     
@@ -4965,8 +4949,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000592">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000591"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000564"/>
-        <untitled-ontology-11:OCNSP_0000517 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000566"/>
         <rdfs:label>9506/1</rdfs:label>
     </owl:Class>
     
@@ -4976,7 +4958,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000593">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000063"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">86</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">87</rdfs:label>
     </owl:Class>
     
 
@@ -4985,7 +4967,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000594">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000593"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">868</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">872</rdfs:label>
     </owl:Class>
     
 
@@ -4994,7 +4976,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000595">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000594"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8680</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8728</rdfs:label>
     </owl:Class>
     
 
@@ -5003,8 +4985,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000596">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000595"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000567"/>
-        <rdfs:label>8680/1</rdfs:label>
+        <rdfs:label>8728/1</rdfs:label>
     </owl:Class>
     
 
@@ -5022,8 +5003,6 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000598">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000597"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000568"/>
-        <untitled-ontology-11:OCNSP_0000499 rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000569"/>
         <rdfs:label>9509/1</rdfs:label>
     </owl:Class>
     
@@ -5197,7 +5176,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000617">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000616"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">829</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">827</rdfs:label>
     </owl:Class>
     
 
@@ -5206,7 +5185,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000618">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000617"/>
-        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8290</rdfs:label>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#decimal">8272</rdfs:label>
     </owl:Class>
     
 
@@ -5215,7 +5194,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000620">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000618"/>
-        <rdfs:label>8290/0</rdfs:label>
+        <rdfs:label>8272/3</rdfs:label>
     </owl:Class>
     
 
