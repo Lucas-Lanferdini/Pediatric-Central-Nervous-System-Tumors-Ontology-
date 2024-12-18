@@ -717,6 +717,7 @@
 
     <owl:Class rdf:about="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000045">
         <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/lucaslanferdini/ontologies/2024/6/untitled-ontology-11#OCNSP_0000037"/>
+        <rdfs:label xml:lang="pt-br">perda de visão</rdfs:label>
         <rdfs:label xml:lang="en">vision loss</rdfs:label>
     </owl:Class>
     
